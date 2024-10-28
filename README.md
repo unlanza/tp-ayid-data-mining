@@ -3,11 +3,9 @@ Repositorio para guardar información relevante sobre el trabajo práctico con d
 
 ## Tabla de contenidos
 1. Propuesta.
-2. Proyecto.
-    1. Tareas.
-    2. Fechas de interés.
+2. Tareas.
 
-### Propuesta 1 - Videojuegos
+## 1. Propuesta 1 - Videojuegos
 **Cliente:**
 > Gran empresa distribuidora de videojuegos en Argentina.
 
@@ -41,4 +39,10 @@ The scraper code can be found [here](https://github.com/patkle/VGChartz-Scrapy-P
 
 **Algoritmos propuestos:**
 - _Clustering:_ para identificar los publicistas con mayores ventas `sales`.
-- _Árbol de decisiones:_ conocer títulos con más ventas (hay que **modificar** el dataset para obtener los 5 juegos más vendidos, `total_shipped`, de cada publicante) e informar el armado de propuestas comerciales en base a números (negociaciones en base a posibles gastos en producto, merch, publicidad local, etc para disminuir el precio total).
+- _Canasta de mercado:_ conocer títulos con más ventas (hay que **modificar** el dataset para obtener los 5 juegos más vendidos, `total_shipped`, de cada publicante) e informar el armado de propuestas comerciales en base a números (negociaciones en base a posibles gastos en producto, merch, publicidad local, etc para disminuir el precio total).
+
+## 2 - Proyecto
+- [ ] Votar por un dataset.
+- [ ] Limpiar dataset elegido.
+- [ ] Hacer demo de datos con `Weka` u `Orange` y resultados (aquí validar con los profes ‼‼‼).
+- [ ] Armar presentación.
